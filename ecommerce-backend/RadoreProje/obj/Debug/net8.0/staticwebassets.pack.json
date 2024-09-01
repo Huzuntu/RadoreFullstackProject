@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/a.txt",
+      "PackagePath": "staticwebassets/a.txt"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/25.png",
+      "PackagePath": "staticwebassets/images/25.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product1.png",
+      "PackagePath": "staticwebassets/images/product1.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product10.png",
+      "PackagePath": "staticwebassets/images/product10.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product11.png",
+      "PackagePath": "staticwebassets/images/product11.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product12.png",
+      "PackagePath": "staticwebassets/images/product12.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product13.png",
+      "PackagePath": "staticwebassets/images/product13.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product14.png",
+      "PackagePath": "staticwebassets/images/product14.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product15.png",
+      "PackagePath": "staticwebassets/images/product15.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product16.jpg",
+      "PackagePath": "staticwebassets/images/product16.jpg"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product17.jpg",
+      "PackagePath": "staticwebassets/images/product17.jpg"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product18.jpg",
+      "PackagePath": "staticwebassets/images/product18.jpg"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product19.jpg",
+      "PackagePath": "staticwebassets/images/product19.jpg"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product2.png",
+      "PackagePath": "staticwebassets/images/product2.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product20.jpg",
+      "PackagePath": "staticwebassets/images/product20.jpg"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product21.png",
+      "PackagePath": "staticwebassets/images/product21.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product22.png",
+      "PackagePath": "staticwebassets/images/product22.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product23.png",
+      "PackagePath": "staticwebassets/images/product23.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product24.png",
+      "PackagePath": "staticwebassets/images/product24.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product25.png",
+      "PackagePath": "staticwebassets/images/product25.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product3.png",
+      "PackagePath": "staticwebassets/images/product3.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product4.png",
+      "PackagePath": "staticwebassets/images/product4.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product5.png",
+      "PackagePath": "staticwebassets/images/product5.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product6.png",
+      "PackagePath": "staticwebassets/images/product6.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product7.png",
+      "PackagePath": "staticwebassets/images/product7.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product8.png",
+      "PackagePath": "staticwebassets/images/product8.png"
+    },
+    {
+      "Id": "/Users/umuttolek/Desktop/RadoreProje/RadoreProject/ecommerce-backend/RadoreProje/wwwroot/images/product9.png",
+      "PackagePath": "staticwebassets/images/product9.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.RadoreProje.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.RadoreProje.props",
+      "PackagePath": "build\\RadoreProje.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RadoreProje.props",
+      "PackagePath": "buildMultiTargeting\\RadoreProje.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RadoreProje.props",
+      "PackagePath": "buildTransitive\\RadoreProje.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
