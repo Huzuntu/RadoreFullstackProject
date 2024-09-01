@@ -44,6 +44,10 @@ To get started with the E-commerce App, follow these steps:
     ```sh
     npm start
     ```
+5. Frontend runs on localhost:3000
+    ```sh
+    localhost:3000
+    ```
 
 ### Backend
 
@@ -63,6 +67,10 @@ To get started with the E-commerce App, follow these steps:
 5. Start the ASP.NET Core server:
     ```sh
     dotnet run
+    ```
+6. Backend runs on localhost:5080
+    ```sh
+    localhost:5080
     ```
 
 ## Screenshots
